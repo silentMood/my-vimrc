@@ -21,6 +21,8 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-surround'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'skammer/vim-css-color'
+Plugin 'jiangmiao/auto-pairs'
+Plugin 'morhetz/gruvbox'
 
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-airline/vim-airline'
