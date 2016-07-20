@@ -24,6 +24,7 @@ Plugin 'skammer/vim-css-color'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'morhetz/gruvbox'
 Plugin 'vim-scripts/grep.vim'
+Plugin 'tomtom/tcomment_vim'
 
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-airline/vim-airline'
